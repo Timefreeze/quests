@@ -1,0 +1,30 @@
+{
+  "name": "lp",
+  "version": "1.0.0",
+  "description": "complex",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timefreeze/complex.git"
+  },
+  "keywords": [
+    "complex"
+  ],
+  "author": "Atrant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timefreeze/complex/issues"
+  },
+  "homepage": "https://github.com/Timefreeze/complex#readme"
+}
